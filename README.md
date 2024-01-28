@@ -1,4 +1,11 @@
 # ClangdwithC++
+
+## If you are on an ubuntu based system try doing:
+```sh
+  sudo apt-get install libstdc++-12-dev
+```
+- If it doesn't detect after this then only go for this big hassle.
+
 This library has the include folder which will make clangd recognize the C++ headers.
 
 - To use this you can clone it into any of your local directory and then copy this clang into the folder which might be located at :
